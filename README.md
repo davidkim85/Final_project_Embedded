@@ -10,10 +10,9 @@ The assignment specifies C/C++ on Linux for the PC test program and requires per
 
 The assignment document specifies STM32F746ZG. The implemented and physically verified target is:
 
-- NUCLEO-F756ZG
-- STM32F756ZGTx
+- STM32F756ZGT
 
-The peripheral configuration and pin mapping were adapted to the actual F756 target.
+The peripheral configuration and pin mapping were adapted to the actual configuration target (depict in: configurations folder).
 
 ## 3. System architecture
 
