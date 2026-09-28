@@ -241,6 +241,7 @@ SPI
 I2C
 ADC
 ```
+<img width="542" height="152" alt="image" src="https://github.com/user-attachments/assets/e62e02a0-fb9c-4868-99a5-8050264a0e21" />
 
 Three iterations were used.
 
@@ -302,6 +303,14 @@ Final_Project/
     └── test_client.py
 ```
 
-## 12. Submission note
+## 12. Installation and Running
+
+1.Clone or Download the code
+2. Unzip PC_CPP_Linux.zip
+3. Switch to the PC_CPP_Linux folder by cd command
+4. Run command: make
+5. After that: manufacturing_test program should be appeared
+6. Run command:  ./manufacturing_test all
+7. Run command:  ./manufacturing_test history
 
 Before submission, ensure the final STM32 CubeIDE project contains the verified source files and that the C++ Linux client is built and demonstrated on Linux.
