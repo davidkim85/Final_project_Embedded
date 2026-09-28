@@ -305,7 +305,7 @@ Final_Project/
 
 ## 12. Installation and Running
 ```text
-1.Clone or Download the code
+1. Clone or Download the code: PC_CPP_Linux.zip
 2. Unzip PC_CPP_Linux.zip
 3. Switch to the PC_CPP_Linux folder by cd command
 4. Run command: make
