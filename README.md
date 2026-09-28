@@ -304,7 +304,7 @@ Final_Project/
 ```
 
 ## 12. Installation and Running
-
+```text
 1.Clone or Download the code
 2. Unzip PC_CPP_Linux.zip
 3. Switch to the PC_CPP_Linux folder by cd command
@@ -312,5 +312,5 @@ Final_Project/
 5. After that: manufacturing_test program should be appeared
 6. Run command:  ./manufacturing_test all
 7. Run command:  ./manufacturing_test history
-
+```
 Before submission, ensure the final STM32 CubeIDE project contains the verified source files and that the C++ Linux client is built and demonstrated on Linux.
