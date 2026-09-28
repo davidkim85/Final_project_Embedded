@@ -313,4 +313,4 @@ Final_Project/
 6. Run command:  ./manufacturing_test all
 7. Run command:  ./manufacturing_test history
 ```
-Before submission, ensure the final STM32 CubeIDE project contains the verified source files and that the C++ Linux client is built and demonstrated on Linux.
+
