@@ -280,7 +280,7 @@ bool UART_Test_Run(const uint8_t *pattern,
 ## 11. Final project structure
 
 ```text
-Final_Project/
+project/
 ├── STM32/
 │   ├── Core/
 │   ├── protocol/
@@ -304,12 +304,14 @@ Final_Project/
 
 ## 12. Installation and Running
 ```text
-1. Clone or Download the code: PC_CPP_Linux.zip
-2. Unzip PC_CPP_Linux.zip
-3. Switch to the PC_CPP_Linux folder by cd command
-4. Run command: make
-5. After that: manufacturing_test program should be appeared
-6. Run command:  ./manufacturing_test all
-7. Run command:  ./manufacturing_test history
+1. Connect the cables due to configurations folder photos
+2. Clone and unzip project.zip and run the main.c
+3. Clone or Download the code: PC_CPP_Linux.zip
+4. Unzip PC_CPP_Linux.zip
+5. Switch to the PC_CPP_Linux folder by cd command
+6. Run command: make
+7. After that: manufacturing_test program should be appeared
+8. Run command:  ./manufacturing_test all
+9. Run command:  ./manufacturing_test history
 ```
 
